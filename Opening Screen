@@ -1,0 +1,23 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>Haunted Mansion</title>
+<link href="https://fonts.googleapis.com/css?family=Nosifer" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Nothing+You+Could+Do" rel="stylesheet">
+<style>
+.center {
+    margin: auto;
+    width: 80%;
+    border: 3px solid #000000;
+    padding: 10px;
+}
+</style>
+</head>
+<body bgcolor="#000000" style="text-align: center;">
+<h1 style="font-family: 'Nosifer', cursive; color:#FF0303; font-size: 600%"> Haunted Mansion
+</h1>
+<div class="center" style="font-family: 'Nothing You Could Do', cursive; font-size: 250%; color:#1AFF03;"> It was Halloween in your hometown. You check your phone and see you have a text from, your best friend, Hunter. The note reads "HELP ME! I've been captured and taken to the old Haunted Mansion at the top of the hill! Please hurry! My phone is going to die and I will be dead by the end of Halloween if you don't rescue me!"
+</div>
+<a href="InstructionsScreen.html">About Me</a>
+</body>
+</html>
