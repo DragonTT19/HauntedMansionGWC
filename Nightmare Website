@@ -15,16 +15,13 @@ body {
     padding: 10px;
 }
 p {
-    line-height : 0px;
+    line-height : 50px;
 }
 h1 {
-    line-height : 30px;
+    line-height : 3px;
 }
 h2 {
     margin-top: 2cm;
-}
-.title {
-	margin-top: 0px;
 }
 .transparent {
 	height: 150px;
@@ -32,11 +29,13 @@ h2 {
     margin-left: 25%;
     margin-right: 25%;
 }
+div {
+    margin-top: 0px;
+}
 </style>
 </head>
 <body style="text-align: center;">
   <div class="transparent">
-  <div> . </div>
   <div class="title">
     <p style="font-family: 'VT323', monospace; color:#00FF00; font-size: 350%"> 
     THE HACKING DEAD PRESENTS: 
