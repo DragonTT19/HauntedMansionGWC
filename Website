@@ -1,0 +1,54 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>Haunted Mansion</title>
+<link href="https://fonts.googleapis.com/css?family=Nosifer" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=VT323" rel="stylesheet">
+<style>
+body {
+    background-image: url("http://i64.tinypic.com/1zlx4rn.jpg");
+    background-size: 100% 100%;
+}
+.center {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+p {
+    line-height : 0px;
+}
+h1 {
+    line-height : 30px;
+}
+h2 {
+    margin-top: 2cm;
+}
+.title {
+	margin-top: 0px;
+}
+.transparent {
+	height: 150px;
+	background-Color:rgba(0,0,0,0.5);
+    margin-left: 25%;
+    margin-right: 25%;
+}
+</style>
+</head>
+<body style="text-align: center;">
+  <div class="transparent">
+  <div> . </div>
+  <div class="title">
+    <p style="font-family: 'VT323', monospace; color:#00FF00; font-size: 200%"> 
+    THE HACKING DEAD PRESENTS: 
+    </p>
+    <h1 style="font-family: 'Nosifer', cursive; color:#FF3300; font-size: 350%"> 
+    Nightmare
+    </h1>
+  </div>
+  </div>
+  <div class="center">
+    <iframe allowtransparency="true" width="727.5" height="603" src="//scratch.mit.edu/projects/embed/169734901/?autostart=false" frameborder="0" allowfullscreen>
+    </iframe>
+  </div>
+</body>
+</html>
